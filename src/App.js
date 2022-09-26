@@ -11,6 +11,9 @@ function App() {
     <BrowserRouter>
       <>
         <Navbar />
+
+        {/* ---------------This is the Home page----------------------- */}
+
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>

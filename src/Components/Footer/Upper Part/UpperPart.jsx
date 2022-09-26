@@ -1,9 +1,9 @@
 import React from "react";
 
 // ------------img-------------------------
-import logo from "../Assets/Image/crocoFace.svg";
-import logo1 from "../Assets/Image/twitter.svg";
-import logo2 from "../Assets/Image/discord.svg";
+import logo from "../Assets/SVG/crocoFace.svg";
+import logo1 from "../Assets/SVG/twitter.svg";
+import logo2 from "../Assets/SVG/discord.svg";
 // -------------styling--------------------
 import {
   HiddenHr,
